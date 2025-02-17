@@ -44,7 +44,7 @@ export default function Home() {
                 <div className="flex -space-x-4">
                   <img
                     className="inline-block h-10 w-10 rounded-full ring-2 ring-slate-100"
-                    src="/users/user-1.png"
+                    src="esha.jpeg"
                     alt="user image"
                   />
                   <img
