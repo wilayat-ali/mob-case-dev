@@ -7,6 +7,7 @@ import Phone from "./components/Phone";
 import { ArrowRight, Check, Star } from "lucide-react";
 import Link from "next/link";
 import { Reviews } from "./components/Reviews";
+import ScrollToCenterText from "./ScrollToCenterText";
 
 export default function Home() {
   return (
@@ -261,6 +262,7 @@ export default function Home() {
           </ul>
         </MaxWidthWrapper>
       </section>
+      {/* <ScrollToCenterText/> */}
     </div>
   );
 }
